@@ -13,3 +13,5 @@ npm init -y
 npm install express socket.io
 node server.js
 ```
+
+5. buka website dan ketik port localhost yang diberikan
