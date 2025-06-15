@@ -14,4 +14,5 @@ npm install express socket.io
 node server.js
 ```
 
-5. buka website dan ketik port localhost yang diberikan
+5. Tes dengan buka website lalu ketik port localhost yang diberikan
+6. Untuk client lain, buka website lalu ketik ip address host dan port yang sama
